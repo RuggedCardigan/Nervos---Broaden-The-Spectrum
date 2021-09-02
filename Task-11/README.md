@@ -10,7 +10,8 @@ https://explorer.nervos.org/aggron/address/ckt1qyqpsu93d9gyyw49nzc8q37894slup7fs
 
 3) Screenshot of CkByte deposit to tron account on layer 2
 
-![](./tronlayer2deposit.png)
+![](./trondepositl2.png)
+![](./trondepositl2part2.png)
 
 4) Screenshot of call on layer 2
 
