@@ -2,7 +2,7 @@
 
 1) Screenshots
 
-![](./bossfight.png)
+![](./bossfights.png)
 ![](./bossfight_1.png)
 
 2) Link to Repo
