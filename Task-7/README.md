@@ -5,6 +5,7 @@
 ![](./bossfights.png)
 ![](./bossfight_1.png)
 ![](./bossfight2.png)
+![](./bossfights.png)
 
 2) Link to Repo
 
