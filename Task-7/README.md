@@ -4,12 +4,22 @@
 
 ![](./bossfights.png)
 ![](./bossfight_1.png)
+![](./bossfight2.png)
 
 2) Link to Repo
 
 https://github.com/RuggedCardigan/Bounty-Nervos-Dapp
 
-3) ABI of Smart Contract
+
+3) Transaction hash of smart contract:
+```
+0x1b79c68504eba76d7ae3d111daaa58add7a61d6a41d3d7cc76eb635ee85a0afb
+```
+Contract address:
+
+0x40CE8A8e1d171Fc82F1cE204b2429eaA71c89643
+
+ABI of Smart Contract
 ```
 [
         {
